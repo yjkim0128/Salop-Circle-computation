@@ -8,3 +8,5 @@ Our team's project is about finding optimal strategies for hypothetical scenario
 For further context of the project, please refer to the included PDF file (presentation on our project.)  
 
 I received final grade of A in this class.
+
+Acknowledgement: this project is done in collaboration with Whan Lee from The University of Chicago.
